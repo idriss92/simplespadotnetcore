@@ -1,0 +1,16 @@
+/.vs
+/node_modules
+/bin
+/backend/wwwroot/**
+/backend/wwwroot/scratch.html
+/backend/wwwroot/favicon.ico
+
+/backend/bin
+/backend/obj
+/backend.test/bin
+/backend.test/obj
+/obj
+/Models/bin
+/Models.obj
+/*.lock
+/*.log
